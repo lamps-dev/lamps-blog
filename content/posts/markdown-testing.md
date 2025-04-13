@@ -10,7 +10,7 @@ tags:
   - test
 ---
 [Hyperlink test](https://google.com)
-![Pasted image 20250412112807.png](/images/Pasted%20image%2020250412112807.png)
+![[Pasted image 20250412112807.png]]
 
 ```python
 import random
@@ -24,7 +24,10 @@ print(random.randint(1,9999))
 ##### Big text 5
 ###### Big text 6
 
-==Highlighted text==
+| 1   | 2   |
+| --- | --- |
+| 3   | 4   |
+
 ___
 *Italic text*
 **Bold text**

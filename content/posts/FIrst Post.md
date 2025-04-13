@@ -16,4 +16,4 @@ The last time i tried making this blog was a fail due to the python script, but 
 
 So heres a test for now ig.
 
-![Pasted image 20250412112807.png](/images/Pasted%20image%2020250412112807.png)
+![[Pasted image 20250412112807.png]]
