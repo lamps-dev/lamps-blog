@@ -10,7 +10,7 @@ tags:
   - test
 ---
 [Hyperlink test](https://google.com)
-![[Pasted image 20250412112807.png]]
+![[Pasted image 20250413141616.png]]
 
 ```python
 import random
