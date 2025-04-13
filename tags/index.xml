@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Terminal</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/tags/first/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lamp</title>
+      <link>/tags/lamp/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/lamp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>/tags/test/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>/tags/testing/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tests</title>
+      <link>/tags/tests/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/tests/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
