@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linuxuser on Terminal</title>
+    <link>/tags/linuxuser/</link>
+    <description>Recent content in Linuxuser on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 28 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/linuxuser/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>why-you-should-use-linux</title>
+      <link>/posts/why-you-should-use-linux/</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/why-you-should-use-linux/</guid>
+      <description>&lt;h1 id=&#34;05282025&#34;&gt;05/28/2025&lt;/h1&gt;&#xA;&lt;h2 id=&#34;chapter-1-what-is-linux&#34;&gt;Chapter 1: What is Linux?&lt;/h2&gt;&#xA;&lt;p&gt;Linus Torvalds originally made a new project back in 1991 called &amp;lsquo;Linux&amp;rsquo;.&#xA;It was an alternative to Unix which, Unix was an OS made by Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McIlroy, and Joe Ossanna at Bell Labs.&#xA;Linux is a kernel-made for [[distributions]] which will be talk about later.&#xA;It was coded in C (C11 since 5.18 to be specific) and is now living on github.&#xA;It is one of the most popular github repository and also the one with the most commits ever.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
