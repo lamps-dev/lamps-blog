@@ -121,6 +121,7 @@ ARCH, PROCEED WITH YOUR OWN RISK!***
 Firstly, go to https://linuxmint.com/ and click the download button shown here
 
 !![Pasted image 20250528163503.png](/images/Pasted%20image%2020250528163503.png)
+
 **Then, scroll down and choose your DE (Desktop Environment).**
 
 This will basically determine what style you like etc..
@@ -130,9 +131,11 @@ This will basically determine what style you like etc..
 Click the download button right below the name of the DE you want to use.
 
 !![Pasted image 20250528163820.png](/images/Pasted%20image%2020250528163820.png)
+
 **Click on a university or anything similar that you trust the mirrors from and then wait...**
 
 !![Pasted image 20250528164802.png](/images/Pasted%20image%2020250528164802.png)
+
 *This process will download the ISO for Linux Mint with the DE you selected, It is preinstalled.*
 
 
@@ -151,14 +154,11 @@ Then click on the ISO's filename on the mirror site and then wait...
 **After the download is finished, you have two options:**
 
 - **1. Use Ventoy (recommended)**
-
 - 2. Use Balena Etcher or Rufus (not really recommended)
-
 
 For this tutorial, we will be using Ventoy since its the simplest, *it just requires 1 USB drive.*
 
 **If you don't have one, use [Netboot](https://netboot.xyz).**
-
 
 Firstly, download Ventoy via https://www.ventoy.net/en/download.html.
 
